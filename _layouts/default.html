@@ -48,14 +48,13 @@
                 à la rentrée prochaine. Passionné par le domaine du Web, je suis à la recherche d’une alternance pour une durée de 2 ans. »<br><br>
                 
                     {% for post in site.posts %}
-                    {{ post.url }}
                     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
                     <br>
 
                     {% endfor %}
 
                     Avant content
-                    {{ content }}
+                    {{ page.content }}
                     Après content
                 {% endif %}
                 <br>
