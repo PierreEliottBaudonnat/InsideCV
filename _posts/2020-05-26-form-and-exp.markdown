@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Expériences professionnelles et formation
-permalink: InsideCV/form-and-exp/
 ---
 
 EXPERIENCES PROFESSIONNELLES :
