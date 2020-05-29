@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Expériences professionnelles et formation
+permalink: /form-and-exp/
 ---
 
 EXPERIENCES PROFESSIONNELLES :
