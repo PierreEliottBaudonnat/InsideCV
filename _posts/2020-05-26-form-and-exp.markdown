@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Expériences professionnelles et formation
+title: Expériences professionnelles et formations
 permalink: /form-and-exp/
 ---
 
