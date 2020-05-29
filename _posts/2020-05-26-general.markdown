@@ -1,0 +1,45 @@
+---
+layout: post
+title: Général
+permalink : /general/
+---
+
+INFORMATIONS :
+
+    Âge : 22 ans
+    Nationalité : Française
+    Mobilité : Permis B (Véhiculé)
+    Adresse : 18 chemin des Combes, 63 500 - Issoire (Déménagement prévu)
+
+
+COMPETENCES :
+
+    Langages informatiques :
+        - HTML
+        - CSS
+        - PHP
+        - PL/SQL
+        - Javascript
+        - jQuery
+        - C
+        - Java
+        - C#
+        - XAML
+
+    Systèmes d'exploitations :
+        - Linux
+        - Windows
+
+    Langue : 
+        Anglais
+
+
+DIVERS :
+
+    Sport - Rugby :
+        - ASM 2012/2014
+        - US Issoire depuis 2014
+        - 2 titres de Champion de France (U21 et Fed 2)
+
+    Musique :
+        - Trompette pendant 5 ans en conservatoire
